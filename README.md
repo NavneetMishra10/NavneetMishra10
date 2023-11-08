@@ -86,8 +86,8 @@ You can find me on various coding platforms:
 
 Here are some of my featured projects:
 
-1. [Portfolio](https://github.com/ChetanBatra72/Easy_Fitness)
-2. [Test](https://github.com/ChetanBatra72/Chat_Appication)
+1. [Portfolio](https://navneetmishra10.github.io/Portfolio/)
+2. [Test](.)
     <!-- 3. [Sorting-Visulaizer](https://github.com/ChetanBatra72/Sorting_Vis)-->
 
 
