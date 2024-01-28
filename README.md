@@ -38,18 +38,18 @@ I'm a final-year Computer Science Engineering student at BTKIT,Almora, India, wi
   <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   </a>
-  <!--<a href="#">
+  <a href="#">
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  </a>-->
-  <!---<a href="#">
+  </a>
+  <a href="#">
     <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  </a>-->
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Express-green?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   </a>
-  <a href="#">
+  <!--<a href="#">
     <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  </a>
+  </a>-->
   <a href="#">
     <img src="https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   </a>
